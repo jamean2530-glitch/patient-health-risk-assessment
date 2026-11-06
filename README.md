@@ -1,6 +1,8 @@
 # ระบบลงทะเบียนและประเมินความเสี่ยงสุขภาพเบื้องต้น
 ### Patient Health Risk Assessment and Registration System (งานที่ 1)
 
+🌐 **ลิงก์เข้าชมเว็บไซต์ผ่าน GitHub Pages**: [https://jamean2530-glitch.github.io/patient-health-risk-assessment/](https://jamean2530-glitch.github.io/patient-health-risk-assessment/)
+
 เว็บแอปพลิเคชันเพื่อคัดกรองผู้ป่วยเบื้องต้นก่อนเข้ารับการรักษา โดยสามารถรับข้อมูลส่วนบุคคล คำนวณค่าดรรชนีมวลกาย (BMI) ประเมินความเสี่ยงสุขภาพตามเงื่อนไขที่กำหนด และออกใบสรุปผลการคัดกรอง
 
 ---
